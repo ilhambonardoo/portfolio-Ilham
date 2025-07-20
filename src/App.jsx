@@ -7,7 +7,6 @@ import boxing from "./assets/boxing.jpg";
 import "animate.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import "./App.css";
 
 function App() {
   return (
